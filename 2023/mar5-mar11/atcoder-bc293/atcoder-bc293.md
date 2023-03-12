@@ -1,2 +1,2 @@
 # things learned
-- (to-do): BFS
+- (from problem D): BFS
